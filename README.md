@@ -23,6 +23,7 @@ I hope you happy
   <summary><b>📫 Reach me on</b></summary>
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fanny.synt/)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285884044342)
 </details>
 
 <!-- end of tools stack -->
